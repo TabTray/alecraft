@@ -3,7 +3,7 @@
   "header": {
     "description": "tab's server pack - changes potions into beer bottles",
     "name": "alecraft",
-    "uuid": "e1974aab-903b-45ac-8215-7887ac7b9b05",
+    "uuid": "8c73ff0a-e60b-475b-916e-358f04f1ad59",
     "version": [1, 2, 0],
     "min_engine_version": [1, 16, 0]
   },
@@ -11,7 +11,7 @@
     {
       "description": "baby bedrock",
       "type": "resources",
-      "uuid": "3c840632-2283-41e2-8654-7c035a741133",
+      "uuid": "977075de-7ee8-493d-adb7-51deca7a7003",
       "version": [1, 0, 0]
     }
   ]
